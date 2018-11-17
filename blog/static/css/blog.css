@@ -1,0 +1,27 @@
+body {
+  background-color: #ffffff;
+  padding: 50px;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #ff5252;
+  text-decoration: none;
+}
+
+.header {
+  background-color: #ff5252;
+  color: #ffffff;
+  padding: 20px;
+}
+
+.header a {
+  color: #ffffff;
+}
+
+.sub-header {
+  background-color: #929eaa;
+  color: #000000;
+  padding: 20px;
+}
