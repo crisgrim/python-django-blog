@@ -30,3 +30,10 @@ a {
   display: block;
   margin-bottom: 20px;
 }
+
+.post-form label,
+.post-form input,
+.post-form textarea {
+  display: block;
+  width: 100%;
+}
